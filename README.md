@@ -20,7 +20,7 @@ Make sure you are using Python ≥ 3.8, and create a virtual environment (option
 
 ```bash
 python -m venv Landslide_02
-source my_lvcaquexian_01/bin/activate  # On Windows: my_lvcaquexian_01\Scripts\activate
+source Landslide_02/bin/activate  # On Windows: my_lvcaquexian_01\Scripts\activate
 ```
 
 Install all required dependencies:
